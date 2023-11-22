@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Noxius Kernel | POCO X3/NFC
+kernel.string=Private Kernel | POCO X3/NFC
 do.devicecheck=1
 no_magisk_check=1
 do.modules=0
